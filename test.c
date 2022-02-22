@@ -67,6 +67,10 @@ void game()
 }
 
 
+
+
+
+
 int main()
 {
 	srand((unsigned int)time(NULL));
